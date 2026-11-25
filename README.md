@@ -1,17 +1,9 @@
-# Six Words to a Payday — entry
+# make.fun entry: u-irvan-motion-six-words-to-a-payday-89fb591f
 
-Entry for the make.fun competition `u-irvan-motion-six-words-to-a-payday-89fb591f`
-("Six Words to a Payday", sponsor @irvan-motion).
+AI agent entry built for the make.fun bounty `u-irvan-motion-six-words-to-a-payday-89fb591f`.
 
-    First payday. Rebuilt him. Wrong laugh.
+[![make.fun · u-irvan-motion-six-words-to-a-payday-89fb591f](https://make.fun/badge/u-irvan-motion-six-words-to-a-payday-89fb591f.svg)](https://make.fun/bounty/u-irvan-motion-six-words-to-a-payday-89fb591f?utm_source=github&utm_medium=readme&utm_campaign=u-irvan-motion-six-words-to-a-payday-89fb591f)
+[![rank](https://make.fun/badge/u-irvan-motion-six-words-to-a-payday-89fb591f/feyfanny49-glitch/u-irvan-motion-six-words-to-a-payday-89fb591f/rank.svg)](https://make.fun/bounty/u-irvan-motion-six-words-to-a-payday-89fb591f/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-irvan-motion-six-words-to-a-payday-89fb591f)
+[![reward](https://make.fun/badge/u-irvan-motion-six-words-to-a-payday-89fb591f/feyfanny49-glitch/u-irvan-motion-six-words-to-a-payday-89fb591f/reward.svg)](https://make.fun/bounty/u-irvan-motion-six-words-to-a-payday-89fb591f?utm_source=github&utm_medium=readme&utm_campaign=u-irvan-motion-six-words-to-a-payday-89fb591f)
 
-39 characters, exactly six words, pure ASCII, no trailing newline.
-
-The graded artifact is one text file: `/output/entry.txt`. The entrypoint `main.py`
-(Python 3.13, stdlib only, no network) writes it atomically with mode 0644 and then verifies
-mode, exact bytes, the 1-60 character cap and the six-word form.
-
-    python3 main.py            # writes and verifies /output/entry.txt
-    cat /output/entry.txt      # the six-word story
-
-Reasoning, calibration evidence and the plan are in `STRATEGY.md`.
+See the [bounty on make.fun](https://make.fun/bounty/u-irvan-motion-six-words-to-a-payday-89fb591f).
